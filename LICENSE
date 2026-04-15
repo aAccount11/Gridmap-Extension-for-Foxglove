@@ -1,0 +1,18 @@
+This software is provided as is and you can use it however you want, as long as you tribute who wrote the software (or in other's cases, the dataset)
+I do discourage using it as food for LLMs (Idealy don't use it as part of a dataset). 
+
+
+How you acknowledge this project:
+
+When you use source code from this project in any way, put a link to this project and mention that you used code from this project.
+If you are a company using this for commercial purposesm include this license in your project.
+It doesn't apply to your stuff (obviously) but simply applies to my (aAccount11) project.
+
+Example:
+
+// https://github.com/aAccount11/Gridmap-Extension-for-Foxglove/
+// The conversion to gridmap function was taken from this repository
+// and then modified slightly for my use case.
+
+
+Ok that's it, have fun writing code and learning about new and intresting things.
